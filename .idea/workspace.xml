@@ -2,7 +2,253 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f9d7883-bf66-4da4-bccd-d17c06fbb5ea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/jie.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Angular2_TypeScript_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/.bin/touch.cmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/invariant/node_modules/.bin/loose-envify.cmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle-proxy-agent/node_modules/https-proxy-agent/node_modules/agent-base/node_modules/.bin/semver.cmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/touch/node_modules/.bin/nopt.cmd" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/angular2-typescript.iml" afterPath="$PROJECT_DIR$/.idea/angular2-typescript.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.component.js" afterPath="$PROJECT_DIR$/app/app.component.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.component.js.map" afterPath="$PROJECT_DIR$/app/app.component.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.component.ts" afterPath="$PROJECT_DIR$/app/app.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.module.js" afterPath="$PROJECT_DIR$/app/app.module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.module.js.map" afterPath="$PROJECT_DIR$/app/app.module.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.module.ts" afterPath="$PROJECT_DIR$/app/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/concurrent" afterPath="$PROJECT_DIR$/node_modules/.bin/concurrent" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/concurrently" afterPath="$PROJECT_DIR$/node_modules/.bin/concurrently" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/lite-server" afterPath="$PROJECT_DIR$/node_modules/.bin/lite-server" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/tsserver" afterPath="$PROJECT_DIR$/node_modules/.bin/tsserver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/abstractobserver.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/abstractobserver.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/anonymousobserver.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/anonymousobserver.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/asyncintro.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/asyncintro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/backpressure/windowed.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/backpressure/windowed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/basicheader-modern.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/basicheader-modern.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/checkedobserver.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/checkedobserver.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/concurrency/historicalscheduler.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/concurrency/historicalscheduler.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/concurrency/scheduleditem.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/concurrency/scheduleditem.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/concurrency/scheduler.periodic.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/concurrency/scheduler.periodic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/disposables/booleandisposable.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/disposables/booleandisposable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/disposables/refcountdisposable.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/disposables/refcountdisposable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/internal/map.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/internal/map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/internal/polyfills.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/internal/polyfills.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/internal/util.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/internal/util.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/joinpatternsheader.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/joinpatternsheader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/joins/activeplan.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/joins/activeplan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/joins/plan.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/joins/plan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/license.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/license.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/_elementatordefault.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/_elementatordefault.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/_firstonly.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/_firstonly.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/_firstordefault.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/_firstordefault.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/_lastordefault.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/_lastordefault.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/_observabletimertimespanandperiod.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/_observabletimertimespanandperiod.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/amb.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/amb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/ambproto.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/ambproto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/bufferwithcount.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/bufferwithcount.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/catchproto.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/catchproto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/combinelatestproto.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/combinelatestproto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/concatmapobserver.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/concatmapobserver.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/concatproto.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/concatproto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/contains.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/contains.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/create.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/create.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/defaultifempty.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/defaultifempty.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/delay.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/delay.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/delaysubscription.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/delaysubscription.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/delaywithselector.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/delaywithselector.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/dematerialize.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/dematerialize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/distinctuntilchanged.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/distinctuntilchanged.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/dowhile.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/dowhile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/elementatordefault.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/elementatordefault.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/every.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/every.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/exclusive.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/exclusive.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/exclusivemap.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/exclusivemap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/expand.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/expand.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/find.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/find.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/first.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/first.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/for.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/for.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/forkjoin.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/forkjoin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/fromcallback.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/fromcallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/fromeventpattern.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/fromeventpattern.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/generate.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/generate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/generatewithabsolutetime.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/generatewithabsolutetime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/generatewithrelativetime.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/generatewithrelativetime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/groupby.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/groupby.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/groupjoin.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/groupjoin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/if.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/if.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/ignoreelements.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/ignoreelements.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/last.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/last.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/lastordefault.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/lastordefault.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/materialize.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/materialize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/mergeall.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/mergeall.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/multicast.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/multicast.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/never.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/never.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/onerrorresumenextproto.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/onerrorresumenextproto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/pairs.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/pairs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/publish.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/publish.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/publishlast.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/publishlast.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/publishvalue.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/publishvalue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/reduce.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/reduce.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/scan.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/scan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/selectmanyobserver.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/selectmanyobserver.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/sharereplay.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/sharereplay.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/sharevalue.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/sharevalue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/single.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/single.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/singleordefault.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/singleordefault.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/skip.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/skip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/skiplast.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/skiplast.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/skiplastwithtime.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/skiplastwithtime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/skipuntilwithtime.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/skipuntilwithtime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/skipwhile.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/skipwhile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/skipwithtime.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/skipwithtime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/some.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/some.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/start.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/start.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/startwith.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/startwith.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/subscribeon.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/subscribeon.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/takelastbuffer.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/takelastbuffer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/takelastbufferwithtime.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/takelastbufferwithtime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/takeuntil.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/takeuntil.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/takeuntilwithtime.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/takeuntilwithtime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/takewhile.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/takewhile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/takewithtime.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/takewithtime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/thendo.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/thendo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/throttlewithselector.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/throttlewithselector.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/timeout.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/timeout.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/timer.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/timer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/timestamp.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/timestamp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/toarray.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/toarray.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/toasync.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/toasync.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/topromise.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/topromise.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/when.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/when.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/while.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/while.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/zip.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/zip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/ziparray.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/linq/observable/ziparray.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/liteheader-compat.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/liteheader-compat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/liteheader.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/liteheader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/observer-lite.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/observer-lite.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/outro.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/outro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/subjects/behaviorsubject.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/subjects/behaviorsubject.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/subjects/innersubscription.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/subjects/innersubscription.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/suboutro.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/suboutro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/testing/mockdisposable.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/testing/mockdisposable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/testing/recorded.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/testing/recorded.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/testintro.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/testintro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/virtualtimeheader.js" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/src/core/virtualtimeheader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/ts/rx.aggregates.d.ts" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/ts/rx.aggregates.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/ts/rx.binding-lite.d.ts" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/ts/rx.binding-lite.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/ts/rx.binding.d.ts" afterPath="$PROJECT_DIR$/node_modules/concurrently/node_modules/rx/ts/rx.binding.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/.bin/browser-sync" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/.bin/browser-sync" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/chokidar/node_modules/anymatch/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/chokidar/node_modules/anymatch/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/chokidar/node_modules/async-each/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/chokidar/node_modules/async-each/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/chokidar/node_modules/inherits/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/chokidar/node_modules/inherits/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/chokidar/node_modules/path-is-absolute/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/chokidar/node_modules/path-is-absolute/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/eazy-logger/node_modules/tfunk/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/eazy-logger/node_modules/tfunk/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/http-proxy/node_modules/eventemitter3/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/http-proxy/node_modules/eventemitter3/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/http-proxy/node_modules/requires-port/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/http-proxy/node_modules/requires-port/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/arr-diff/LICENSE" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/arr-diff/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/arr-diff/node_modules/arr-flatten/LICENSE" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/arr-diff/node_modules/arr-flatten/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/arr-diff/node_modules/arr-flatten/README.md" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/arr-diff/node_modules/arr-flatten/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/arr-diff/node_modules/arr-flatten/index.js" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/arr-diff/node_modules/arr-flatten/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/arr-diff/node_modules/arr-flatten/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/arr-diff/node_modules/arr-flatten/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/array-unique/LICENSE" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/array-unique/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/array-unique/README.md" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/array-unique/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/array-unique/index.js" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/array-unique/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/array-unique/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/array-unique/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/LICENSE" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/README.md" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/isobject/node_modules/isarray/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/isobject/node_modules/isarray/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/isobject/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/isobject/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/randomatic/LICENSE" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/randomatic/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/repeat-string/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/repeat-string/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/node_modules/preserve/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/node_modules/preserve/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/braces/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/expand-brackets/node_modules/is-posix-bracket/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/expand-brackets/node_modules/is-posix-bracket/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/extglob/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/extglob/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/filename-regex/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/filename-regex/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/kind-of/node_modules/is-buffer/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/normalize-path/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/normalize-path/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/object.omit/node_modules/for-own/node_modules/for-in/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/object.omit/node_modules/for-own/node_modules/for-in/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/object.omit/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/object.omit/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/parse-glob/node_modules/glob-base/node_modules/glob-parent/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/parse-glob/node_modules/glob-base/node_modules/glob-parent/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/parse-glob/node_modules/is-dotfile/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/parse-glob/node_modules/is-dotfile/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/parse-glob/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/parse-glob/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/regex-cache/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/micromatch/node_modules/regex-cache/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/portscanner/node_modules/async/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/portscanner/node_modules/async/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/debug/package.json" afterPath="$PROJECT_DIR$/node_modules/lite-server/node_modules/browser-sync/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/debug/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rxjs/src/add/observable/onErrorResumeNext.ts" afterPath="$PROJECT_DIR$/node_modules/rxjs/src/add/observable/onErrorResumeNext.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rxjs/src/add/observable/pairs.ts" afterPath="$PROJECT_DIR$/node_modules/rxjs/src/add/observable/pairs.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rxjs/src/add/operator/onErrorResumeNext.ts" afterPath="$PROJECT_DIR$/node_modules/rxjs/src/add/operator/onErrorResumeNext.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rxjs/src/add/operator/timestamp.ts" afterPath="$PROJECT_DIR$/node_modules/rxjs/src/add/operator/timestamp.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rxjs/src/observable/PairsObservable.ts" afterPath="$PROJECT_DIR$/node_modules/rxjs/src/observable/PairsObservable.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.d.ts" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.iterable.d.ts" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.iterable.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.core.d.ts" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.core.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.generator.d.ts" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.generator.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.iterable.d.ts" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.iterable.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.promise.d.ts" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.promise.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.proxy.d.ts" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.proxy.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.reflect.d.ts" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.reflect.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.d.ts" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.d.ts" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es5.d.ts" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es5.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es6.d.ts" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es6.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.d.ts" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsc.js" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.d.ts" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typescriptServices.d.ts" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescriptServices.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typescriptServices.js" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescriptServices.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/.bin/rc" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/.bin/rc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/.bin/rimraf" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/.bin/rimraf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/array-uniq/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/array-uniq/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/detect-indent/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/detect-indent/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/has/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/has/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/invariant/node_modules/loose-envify/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/invariant/node_modules/loose-envify/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/invariant/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/invariant/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/is-absolute/node_modules/is-relative/node_modules/is-unc-path/node_modules/unc-path-regex/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/is-absolute/node_modules/is-relative/node_modules/is-unc-path/node_modules/unc-path-regex/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/is-absolute/node_modules/is-relative/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/is-absolute/node_modules/is-relative/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/is-absolute/node_modules/is-windows/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/is-absolute/node_modules/is-windows/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/is-absolute/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/is-absolute/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/make-error-cause/node_modules/make-error/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/make-error-cause/node_modules/make-error/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/object.pick/node_modules/isobject/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/object.pick/node_modules/isobject/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/object.pick/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/object.pick/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle-proxy-agent/node_modules/http-proxy-agent/node_modules/agent-base/node_modules/semver/bin/semver" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle-proxy-agent/node_modules/http-proxy-agent/node_modules/agent-base/node_modules/semver/bin/semver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle-proxy-agent/node_modules/http-proxy-agent/node_modules/agent-base/node_modules/semver/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle-proxy-agent/node_modules/http-proxy-agent/node_modules/agent-base/node_modules/semver/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle-proxy-agent/node_modules/http-proxy-agent/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle-proxy-agent/node_modules/http-proxy-agent/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle-proxy-agent/node_modules/https-proxy-agent/node_modules/agent-base/node_modules/semver/bin/semver" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle-proxy-agent/node_modules/https-proxy-agent/node_modules/agent-base/node_modules/semver/bin/semver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle-proxy-agent/node_modules/https-proxy-agent/node_modules/agent-base/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle-proxy-agent/node_modules/https-proxy-agent/node_modules/agent-base/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle-proxy-agent/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle-proxy-agent/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle-status/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle-status/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle/logo.svg" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle/logo.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle/node_modules/concat-stream/node_modules/readable-stream/node_modules/core-util-is/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle/node_modules/concat-stream/node_modules/readable-stream/node_modules/core-util-is/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle/node_modules/concat-stream/node_modules/readable-stream/node_modules/string_decoder/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle/node_modules/concat-stream/node_modules/readable-stream/node_modules/string_decoder/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle/node_modules/concat-stream/node_modules/readable-stream/node_modules/util-deprecate/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle/node_modules/concat-stream/node_modules/readable-stream/node_modules/util-deprecate/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle/node_modules/concat-stream/node_modules/readable-stream/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle/node_modules/concat-stream/node_modules/readable-stream/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle/node_modules/concat-stream/node_modules/typedarray/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle/node_modules/concat-stream/node_modules/typedarray/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle/node_modules/concat-stream/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/popsicle/node_modules/concat-stream/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/promise-finally/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/promise-finally/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/rc/index.js" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/rc/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/rc/node_modules/.bin/strip-json-comments" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/rc/node_modules/.bin/strip-json-comments" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/rc/node_modules/strip-json-comments/cli.js" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/rc/node_modules/strip-json-comments/cli.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/rimraf/node_modules/glob/node_modules/inflight/node_modules/wrappy/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/rimraf/node_modules/glob/node_modules/inflight/node_modules/wrappy/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/rimraf/node_modules/glob/node_modules/inflight/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/rimraf/node_modules/glob/node_modules/inflight/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/rimraf/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/rimraf/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/rimraf/node_modules/glob/node_modules/once/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/rimraf/node_modules/glob/node_modules/once/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/sort-keys/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/sort-keys/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/string-template/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/string-template/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/strip-bom/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/strip-bom/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/thenify/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/thenify/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/throat/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/throat/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/touch/bin/touch.js" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/touch/bin/touch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/touch/node_modules/.bin/nopt" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/touch/node_modules/.bin/nopt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/touch/node_modules/nopt/bin/nopt.js" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/touch/node_modules/nopt/bin/nopt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/touch/node_modules/nopt/examples/my-program.js" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/touch/node_modules/nopt/examples/my-program.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/touch/node_modules/nopt/node_modules/abbrev/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/touch/node_modules/nopt/node_modules/abbrev/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/touch/node_modules/nopt/package.json" afterPath="$PROJECT_DIR$/node_modules/typings/node_modules/typings-core/node_modules/touch/node_modules/nopt/package.json" />
     </list>
     <ignored path="angular2-typescript.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,29 +263,16 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="angular2-typescript" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.js.map" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/main.js.map">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -52,18 +285,50 @@
       <file leaf-file-name="main.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/main.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.49411765">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding>
+                <marker date="1475696321000" expanded="true" signature="287:401" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="npm-debug.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/npm-debug.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="7.6666665">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -72,20 +337,33 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="493">
+            <state vertical-scroll-proportion="0.0">
               <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="systemjs.config.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="systemjs.config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/systemjs.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.3363802" vertical-offset="0" max-vertical-offset="833">
+            <state vertical-scroll-proportion="0.0">
               <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.js.map" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app.component.js.map">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="sourcemapFileViewerProvider">
+            <state />
           </provider>
         </entry>
       </file>
@@ -97,26 +375,31 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/systemjs.config.js" />
         <option value="$PROJECT_DIR$/typings.json" />
         <option value="$PROJECT_DIR$/tsconfig.json" />
-        <option value="$PROJECT_DIR$/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/app/app.module.ts" />
         <option value="$PROJECT_DIR$/app/main.ts" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/npm-debug.log" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/app/app.component.ts" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true">
+    <package-json value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2088" />
-    <option name="y" value="72" />
-    <option name="width" value="1889" />
-    <option name="height" value="1014" />
+    <option name="x" value="33" />
+    <option name="y" value="75" />
+    <option name="width" value="1280" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -139,8 +422,11 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -155,7 +441,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="angular2-typescript" />
+              <option name="myItemId" value="Angular2-TypeScript" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -165,7 +451,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Angular2-TypeScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="typings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="angular2-typescript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular2-TypeScript" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -173,9 +473,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2-typescript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular2-TypeScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app.component.ts" />
+              <option name="myItemType" value="com.intellij.lang.typescript.compiler.ui.projectView.TypeScriptNestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,19 +503,20 @@
     <property name="options.lastSelected" value="web-ide.project.structure" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
-    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="Chrome" />
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
@@ -217,9 +536,31 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
-    <list size="0" />
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -235,27 +576,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2088" y="72" width="1889" height="1014" extended-state="0" />
+    <frame x="33" y="75" width="1280" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32905483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14964885" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32988167" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19140625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840237" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -269,51 +613,14 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/typings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14819427" vertical-offset="0" max-vertical-offset="803">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25404733" vertical-offset="0" max-vertical-offset="803">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18455972" vertical-offset="0" max-vertical-offset="829">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10585305" vertical-offset="0" max-vertical-offset="803">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="829">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -321,7 +628,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/main.js.map">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="786">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -332,7 +639,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/main.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
@@ -340,15 +647,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+        <state vertical-scroll-proportion="0.0">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1475696321000" expanded="true" signature="287:401" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="493">
+        <state vertical-scroll-proportion="0.0">
           <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
           <folding />
         </state>
@@ -356,9 +665,112 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/systemjs.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3363802" vertical-offset="0" max-vertical-offset="833">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14819427">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25404733">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/main.js.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/systemjs.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.component.js.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/npm-debug.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="7.6666665">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49411765">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <marker date="1475696321000" expanded="true" signature="287:401" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
